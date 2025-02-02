@@ -11,7 +11,7 @@ Edit
 2. Open the `index.html` file in a browser.
 
 ## Screenshot
-![App Screenshot](screenshot.png)
+![Image 2-2-25 at 5 03 PM](https://github.com/user-attachments/assets/605eb3d8-2fc8-4680-a381-740f77a891fb)
 
 ## Features
 - User-friendly interface
